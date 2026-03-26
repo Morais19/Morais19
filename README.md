@@ -21,6 +21,7 @@
   <a href="https://github.com/Morais19/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morais19&theme=tokyonight"/>
   </a>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morais19&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 

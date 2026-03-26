@@ -1,16 +1,48 @@
-## Hi there 👋
+## Olá Mundo, Eu Sou o Morais 👋
 
-<!--
-**Morais19/Morais19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Estudante de Engenharia de Software 💻</h3>
 
-Here are some ideas to get you started:
+<p>
+  <br>Atualmente, focado em desenvolvimento front-end com <b>HTML</b> e <b>CSS</b> e <b>JavaScript</b> 🎯.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### O que estou fazendo?
+
+- Desenvolvendo um site utilizando <b>HTML</b> e <b>CSS</b> e <b>JavaScript</b>
+- Aprendendo Lógica de Programação em linguagem <b>C</b>
+- Escrevendo código <b>limpo, modular</b> e <b>reutilizável</b> 
+
+---
+
+### Log do que estou fazendo:
+<p align="center">
+  <a href="https://github.com/Morais19/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morais19&theme=tokyonight&cache_seconds=0"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morais19&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+---
+
+### Quebrando a cabeça com isso aqui:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" alt="HTML 5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" alt="CSS"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" alt="C"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-moraiiisss/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_lucasmvs/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+

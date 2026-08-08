@@ -11,7 +11,7 @@
 ### O que estou fazendo?
 
 - Desenvolvendo um site utilizando <b>HTML</b> e <b>CSS</b> e <b>JavaScript</b>
-- Aprendendo Lógica de Programação em linguagem <b>C</b>
+- Iniciando os estudos em <b>Java</b>
 - Escrevendo código <b>limpo, modular</b> e <b>reutilizável</b> 
 
 ---
@@ -34,4 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" alt="CSS"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" alt="Java"/>
 </p>
